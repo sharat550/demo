@@ -6,3 +6,4 @@ This is the third file
 Just some updates
 Updating in master branch
 This is going to cause trouble
+This is bound to cause trouble
